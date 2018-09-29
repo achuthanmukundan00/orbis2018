@@ -58,7 +58,24 @@ public class PlayerAI {
             for (Tile edge : edges) {
                 avoid.addAll(world.getNeighbours(edge.getPosition()).values());
             }
-            target = world.util.getClosestCapturableTerritoryFrom(friendlyUnit.getPosition(), avoid);
+            int captureRadius = 3;
+            int movesLeft = (3*captureRadius)-1;
+
+            Tile enemyTile = world.util.getClosestEnemyBodyFrom(friendlyUnit.getPosition(), null);
+            Point enemyPoint = enemyTile.getPosition();
+            Point friendlyPoint = friendlyUnit.getPosition();
+
+            int enemyX = enemyPoint.getX()-friendlyPoint.getX();
+            int enemyY = enemyPoint.getY()-friendlyPoint.getY();
+            int enemyDistance = Math.abs(enemyX) + Math.abs(enemyY);
+
+
+
+            while(enemyDistance>movesLeft) {
+                if(movesLeft>=(2*captureRadius)-1){
+
+                }
+            }
         }
 
         // else if inbound and no target set, set target as the closest friendly tile.
@@ -68,6 +85,8 @@ public class PlayerAI {
 
         // set next move as the next point in path to target
         Point nextMove = world.path.getShortestPath(friendlyUnit.getPosition(), target.getPosition(), friendlyUnit.getSnake()).get(0);
+
+
 
         // move!
         friendlyUnit.move(nextMove);
