@@ -1,0 +1,1590 @@
+[191397279] Using port 4461
+Server waiting for client
+Connected player with UUID Red-Jerpentine
+Assigned index 0
+Server waiting for client
+Connected player with UUID Green-Jerpentine
+Assigned index 2
+Server waiting for client
+Connected player with UUID Purple-Jerpentine
+Assigned index 3
+Server waiting for client
+Connected player with UUID Blue
+Assigned index 1
+[191419871] Processing the map...
+[191420042] Initializing controllers...
+[191420046] Initializing the game...
+[0] Red-Jerpentine (Comm open) - sending GET_READY...
+[0] Red-Jerpentine (Comm open) - Ready!
+[1] Blue (Comm open) - sending GET_READY...
+[1] Blue (Comm open) - Ready!
+[2] Green-Jerpentine (Comm open) - sending GET_READY...
+[2] Green-Jerpentine (Comm open) - Ready!
+[3] Purple-Jerpentine (Comm open) - sending GET_READY...
+[3] Purple-Jerpentine (Comm open) - Ready!
+[191421312] Turn number: 0
+[191421312] ----------------------------------------------------
+[191421415] Turn number: 1
+[191421415] ----------------------------------------------------
+[191421495] Turn number: 2
+[191421495] ----------------------------------------------------
+[191421619] Turn number: 3
+[191421620] ----------------------------------------------------
+[191421746] Turn number: 4
+[191421746] ----------------------------------------------------
+[191421923] Turn number: 5
+[191421924] ----------------------------------------------------
+[191421935] Red-Jerpentine Acquired Territory, now at  (4, 2)
+[191421936] Blue Acquired Territory, now at  (27, 4)
+[191421936] Green-Jerpentine Acquired Territory, now at  (27, 25)
+[191421936] Purple-Jerpentine Acquired Territory, now at  (4, 25)
+[191422052] Turn number: 6
+[191422053] ----------------------------------------------------
+[191422103] Turn number: 7
+[191422103] ----------------------------------------------------
+[191422195] Turn number: 8
+[191422195] ----------------------------------------------------
+[191422414] Turn number: 9
+[191422415] ----------------------------------------------------
+[191422529] Turn number: 10
+[191422530] ----------------------------------------------------
+[191422777] Turn number: 11
+[191422778] ----------------------------------------------------
+[191422782] Blue Acquired Territory, now at  (25, 4)
+[191423049] Turn number: 12
+[191423050] ----------------------------------------------------
+[191423053] Red-Jerpentine Acquired Territory, now at  (6, 3)
+[191423053] Green-Jerpentine Acquired Territory, now at  (26, 23)
+[191423054] Purple-Jerpentine Acquired Territory, now at  (3, 23)
+[191423080] Turn number: 13
+[191423081] ----------------------------------------------------
+[191423138] Turn number: 14
+[191423139] ----------------------------------------------------
+[191423236] Turn number: 15
+[191423238] ----------------------------------------------------
+[191423354] Turn number: 16
+[191423355] ----------------------------------------------------
+[191423446] Turn number: 17
+[191423447] ----------------------------------------------------
+[191423458] Blue Acquired Territory, now at  (25, 2)
+[191423498] Turn number: 18
+[191423498] ----------------------------------------------------
+[191423560] Turn number: 19
+[191423560] ----------------------------------------------------
+[191423565] Red-Jerpentine Acquired Territory, now at  (6, 2)
+[191423568] Green-Jerpentine Acquired Territory, now at  (27, 23)
+[191423568] Purple-Jerpentine Acquired Territory, now at  (4, 23)
+[191423663] Turn number: 20
+[191423664] ----------------------------------------------------
+[191423730] Turn number: 21
+[191423731] ----------------------------------------------------
+[191423821] Turn number: 22
+[191423822] ----------------------------------------------------
+[191423945] Turn number: 23
+[191423946] ----------------------------------------------------
+[191424000] Turn number: 24
+[191424001] ----------------------------------------------------
+[191424005] Blue Acquired Territory, now at  (26, 6)
+[191424061] Turn number: 25
+[191424068] ----------------------------------------------------
+[191424207] Turn number: 26
+[191424207] ----------------------------------------------------
+[191424211] Purple-Jerpentine Acquired Territory, now at  (4, 22)
+[191424633] Turn number: 27
+[191424633] ----------------------------------------------------
+[191424636] Red-Jerpentine Acquired Territory, now at  (8, 2)
+[191424636] Green-Jerpentine Acquired Territory, now at  (27, 21)
+[191424946] Turn number: 28
+[191424946] ----------------------------------------------------
+[191425056] Turn number: 29
+[191425060] ----------------------------------------------------
+[191425424] Turn number: 30
+[191425425] ----------------------------------------------------
+[191425609] Turn number: 31
+[191425609] ----------------------------------------------------
+[191425612] Blue Acquired Territory, now at  (24, 5)
+[191425647] Turn number: 32
+[191425648] ----------------------------------------------------
+[191425730] Turn number: 33
+[191425732] ----------------------------------------------------
+[191425737] Red-Jerpentine Acquired Territory, now at  (9, 3)
+[191425737] Green-Jerpentine Acquired Territory, now at  (26, 20)
+[191425782] Turn number: 34
+[191425783] ----------------------------------------------------
+[191425820] Turn number: 35
+[191425820] ----------------------------------------------------
+[191425823] Purple-Jerpentine Acquired Territory, now at  (4, 21)
+[191425857] Turn number: 36
+[191425859] ----------------------------------------------------
+[191425860] Blue Acquired Territory, now at  (23, 3)
+[191425882] Turn number: 37
+[191425882] ----------------------------------------------------
+[191425893] Turn number: 38
+[191425894] ----------------------------------------------------
+[191425920] Turn number: 39
+[191425921] ----------------------------------------------------
+[191425946] Turn number: 40
+[191425950] ----------------------------------------------------
+[191425991] Turn number: 41
+[191425995] ----------------------------------------------------
+[191426010] Red-Jerpentine Acquired Territory, now at  (10, 2)
+[191426010] Blue Acquired Territory, now at  (23, 2)
+[191426011] Green-Jerpentine Acquired Territory, now at  (27, 19)
+[191426011] Purple-Jerpentine Acquired Territory, now at  (4, 19)
+[191426042] Turn number: 42
+[191426043] ----------------------------------------------------
+[191426089] Turn number: 43
+[191426089] ----------------------------------------------------
+[191426213] Turn number: 44
+[191426214] ----------------------------------------------------
+[191426258] Turn number: 45
+[191426259] ----------------------------------------------------
+[191426288] Turn number: 46
+[191426289] ----------------------------------------------------
+[191426417] Turn number: 47
+[191426417] ----------------------------------------------------
+[191426420] Blue Acquired Territory, now at  (22, 1)
+[191426454] Turn number: 48
+[191426454] ----------------------------------------------------
+[191426456] Red-Jerpentine Acquired Territory, now at  (12, 3)
+[191426457] Green-Jerpentine Acquired Territory, now at  (26, 17)
+[191426457] Purple-Jerpentine Acquired Territory, now at  (5, 19)
+[191426499] Turn number: 49
+[191426500] ----------------------------------------------------
+[191426568] Turn number: 50
+[191426568] ----------------------------------------------------
+[191426599] Turn number: 51
+[191426599] ----------------------------------------------------
+[191426628] Turn number: 52
+[191426628] ----------------------------------------------------
+[191426660] Turn number: 53
+[191426660] ----------------------------------------------------
+[191426686] Turn number: 54
+[191426686] ----------------------------------------------------
+[191426691] Blue Acquired Territory, now at  (22, 4)
+[191426746] Turn number: 55
+[191426747] ----------------------------------------------------
+[191426749] Red-Jerpentine Acquired Territory, now at  (12, 2)
+[191426750] Green-Jerpentine Acquired Territory, now at  (27, 17)
+[191426750] Purple-Jerpentine Acquired Territory, now at  (5, 18)
+[191426785] Turn number: 56
+[191426786] ----------------------------------------------------
+[191426822] Turn number: 57
+[191426822] ----------------------------------------------------
+[191426870] Turn number: 58
+[191426870] ----------------------------------------------------
+[191426929] Turn number: 59
+[191426941] ----------------------------------------------------
+[191426948] Blue Acquired Territory, now at  (23, 6)
+[191426972] Turn number: 60
+[191426972] ----------------------------------------------------
+[191427003] Turn number: 61
+[191427003] ----------------------------------------------------
+[191427023] Turn number: 62
+[191427023] ----------------------------------------------------
+[191427049] Turn number: 63
+[191427049] ----------------------------------------------------
+[191427051] Red-Jerpentine Acquired Territory, now at  (14, 2)
+[191427051] Green-Jerpentine Acquired Territory, now at  (27, 15)
+[191427064] Turn number: 64
+[191427064] ----------------------------------------------------
+[191427067] Purple-Jerpentine Acquired Territory, now at  (5, 17)
+[191427101] Turn number: 65
+[191427101] ----------------------------------------------------
+[191427480] Turn number: 66
+[191427481] ----------------------------------------------------
+[191427482] Blue Acquired Territory, now at  (21, 5)
+[191427564] Turn number: 67
+[191427564] ----------------------------------------------------
+[191427647] Turn number: 68
+[191427647] ----------------------------------------------------
+[191427723] Turn number: 69
+[191427724] ----------------------------------------------------
+[191427728] Red-Jerpentine Acquired Territory, now at  (15, 3)
+[191427728] Green-Jerpentine Acquired Territory, now at  (26, 14)
+[191427753] Turn number: 70
+[191427754] ----------------------------------------------------
+[191427755] Purple-Jerpentine Acquired Territory, now at  (5, 15)
+[191427785] Turn number: 71
+[191427785] ----------------------------------------------------
+[191427837] Turn number: 72
+[191427838] ----------------------------------------------------
+[191427873] Turn number: 73
+[191427873] ----------------------------------------------------
+[191427882] Blue Acquired Territory, now at  (21, 4)
+[191427949] Turn number: 74
+[191427949] ----------------------------------------------------
+[191427982] Turn number: 75
+[191427982] ----------------------------------------------------
+[191428008] Turn number: 76
+[191428008] ----------------------------------------------------
+[191428032] Turn number: 77
+[191428032] ----------------------------------------------------
+[191428035] Red-Jerpentine Acquired Territory, now at  (16, 2)
+[191428036] Green-Jerpentine Acquired Territory, now at  (27, 13)
+[191428036] Purple-Jerpentine Acquired Territory, now at  (6, 15)
+[191428125] Turn number: 78
+[191428126] ----------------------------------------------------
+[191428180] Turn number: 79
+[191428182] ----------------------------------------------------
+[191428184] Blue Acquired Territory, now at  (22, 7)
+[191428232] Turn number: 80
+[191428232] ----------------------------------------------------
+[191428277] Turn number: 81
+[191428280] ----------------------------------------------------
+[191428309] Turn number: 82
+[191428310] ----------------------------------------------------
+[191428332] Turn number: 83
+[191428333] ----------------------------------------------------
+[191428430] Turn number: 84
+[191428430] ----------------------------------------------------
+[191428438] Red-Jerpentine Acquired Territory, now at  (18, 3)
+[191428438] Green-Jerpentine Acquired Territory, now at  (26, 11)
+[191428439] Purple-Jerpentine Acquired Territory, now at  (6, 14)
+[191428526] Turn number: 85
+[191428526] ----------------------------------------------------
+[191428589] Turn number: 86
+[191428590] ----------------------------------------------------
+[191428596] Blue Acquired Territory, now at  (20, 6)
+[191428691] Turn number: 87
+[191428692] ----------------------------------------------------
+[191428722] Turn number: 88
+[191428722] ----------------------------------------------------
+[191428773] Turn number: 89
+[191428774] ----------------------------------------------------
+[191428804] Turn number: 90
+[191428804] ----------------------------------------------------
+[191428822] Turn number: 91
+[191428823] ----------------------------------------------------
+[191428831] Red-Jerpentine Acquired Territory, now at  (18, 2)
+[191428832] Blue Acquired Territory, now at  (19, 4)
+[191428832] Green-Jerpentine Acquired Territory, now at  (27, 11)
+[191428893] Turn number: 92
+[191428894] ----------------------------------------------------
+[191428936] Turn number: 93
+[191428937] ----------------------------------------------------
+[191428986] Red-Jerpentine Killed AI at  (19, 3)
+[191428986] Blue Died at  (19, 2)
+[191428986] Purple-Jerpentine Acquired Territory, now at  (6, 13)
+[191429079] Turn number: 94
+[191429079] ----------------------------------------------------
+[191429158] Turn number: 95
+[191429159] ----------------------------------------------------
+[191429208] Turn number: 96
+[191429208] ----------------------------------------------------
+[191429355] Turn number: 97
+[191429468] ----------------------------------------------------
+[191429604] Error receiving message: Connection reset
+[191429626] Turn number: 98
+[191429626] Empty move from player 1
+[191429626] ----------------------------------------------------
+[191429632] Red-Jerpentine Acquired Territory, now at  (20, 3)
+[191429637] Error sending message: Connection reset by peer: socket write error
+[191429638] Error sending message: Connection reset by peer: socket write error
+[191429659] Turn number: 99
+[191429659] Empty move from player 1
+[191429659] ----------------------------------------------------
+[191429662] Green-Jerpentine Acquired Territory, now at  (27, 9)
+[191429662] Purple-Jerpentine Acquired Territory, now at  (6, 11)
+[191429638] Error receiving message: Connection reset
+[191429726] Error sending message: Connection reset by peer: socket write error
+[191429727] Error sending message: Connection reset by peer: socket write error
+[191429727] Error receiving message: Connection reset
+[191429752] Turn number: 100
+[191429766] Error sending message: Connection reset by peer: socket write error
+[191429752] Empty move from player 1
+[191429753] ----------------------------------------------------
+[191429767] Error sending message: Connection reset by peer: socket write error
+[191429767] Error receiving message: Connection reset
+[191429905] Turn number: 101
+[191429910] Empty move from player 1
+[191429910] ----------------------------------------------------
+[191430016] Error sending message: Connection reset by peer: socket write error
+[191430017] Error sending message: Connection reset by peer: socket write error
+[191430017] Error receiving message: Connection reset
+[191430063] Turn number: 102
+[191430063] Empty move from player 1
+[191430206] Error sending message: Connection reset by peer: socket write error
+[191430206] Error sending message: Connection reset by peer: socket write error
+[191430207] Error receiving message: Connection reset
+[191430063] ----------------------------------------------------
+[191430222] Turn number: 103
+[191430222] Empty move from player 1
+[191430222] ----------------------------------------------------
+[191430236] Error sending message: Connection reset by peer: socket write error
+[191430238] Error sending message: Connection reset by peer: socket write error
+[191430238] Error receiving message: Connection reset
+[191430253] Turn number: 104
+[191430253] Empty move from player 1
+[191430253] ----------------------------------------------------
+[191430276] Error sending message: Connection reset by peer: socket write error
+[191430277] Error sending message: Connection reset by peer: socket write error
+[191430277] Error receiving message: Connection reset
+[191430289] Turn number: 105
+[191430289] Empty move from player 1
+[191430289] ----------------------------------------------------
+[191430293] Red-Jerpentine Acquired Territory, now at  (20, 2)
+[191430293] Green-Jerpentine Acquired Territory, now at  (26, 8)
+[191430298] Error sending message: Connection reset by peer: socket write error
+[191430299] Error sending message: Connection reset by peer: socket write error
+[191430299] Error receiving message: Connection reset
+[191430317] Turn number: 106
+[191430317] Empty move from player 1
+[191430317] ----------------------------------------------------
+[191430322] Purple-Jerpentine Acquired Territory, now at  (7, 11)
+[191430330] Error sending message: Connection reset by peer: socket write error
+[191430331] Error sending message: Connection reset by peer: socket write error
+[191430331] Error receiving message: Connection reset
+[191430366] Turn number: 107
+[191430366] Empty move from player 1
+[191430366] ----------------------------------------------------
+[191430376] Error sending message: Connection reset by peer: socket write error
+[191430377] Error sending message: Connection reset by peer: socket write error
+[191430377] Error receiving message: Connection reset
+[191430399] Turn number: 108
+[191430399] Empty move from player 1
+[191430399] ----------------------------------------------------
+[191430404] Error sending message: Connection reset by peer: socket write error
+[191430406] Error sending message: Connection reset by peer: socket write error
+[191430406] Error receiving message: Connection reset
+[191430418] Turn number: 109
+[191430418] Empty move from player 1
+[191430419] ----------------------------------------------------
+[191430425] Error sending message: Connection reset by peer: socket write error
+[191430429] Error sending message: Connection reset by peer: socket write error
+[191430429] Error receiving message: Connection reset
+[191430442] Turn number: 110
+[191430442] Empty move from player 1
+[191430442] ----------------------------------------------------
+[191430454] Error sending message: Connection reset by peer: socket write error
+[191430456] Error sending message: Connection reset by peer: socket write error
+[191430457] Error receiving message: Connection reset
+[191430494] Turn number: 111
+[191430495] Empty move from player 1
+[191430495] ----------------------------------------------------
+[191430524] Error sending message: Connection reset by peer: socket write error
+[191430525] Error sending message: Connection reset by peer: socket write error
+[191430526] Error receiving message: Connection reset
+[191430547] Turn number: 112
+[191430548] Empty move from player 1
+[191430548] ----------------------------------------------------
+[191430584] Error sending message: Connection reset by peer: socket write error
+[191430587] Error sending message: Connection reset by peer: socket write error
+[191430587] Error receiving message: Connection reset
+[191430620] Turn number: 113
+[191430620] Empty move from player 1
+[191430620] ----------------------------------------------------
+[191430635] Red-Jerpentine Acquired Territory, now at  (22, 2)
+[191430635] Green-Jerpentine Acquired Territory, now at  (27, 7)
+[191430635] Purple-Jerpentine Acquired Territory, now at  (7, 10)
+[191430641] Error sending message: Connection reset by peer: socket write error
+[191430642] Error sending message: Connection reset by peer: socket write error
+[191430643] Error receiving message: Connection reset
+[191431122] Turn number: 114
+[191431122] Empty move from player 1
+[191431125] ----------------------------------------------------
+[191432467] Error sending message: Connection reset by peer: socket write error
+[191432468] Error sending message: Connection reset by peer: socket write error
+[191432468] Error receiving message: Connection reset
+[191432572] Turn number: 115
+[191432573] Empty move from player 1
+[191432573] ----------------------------------------------------
+[191432582] Error sending message: Connection reset by peer: socket write error
+[191432583] Error sending message: Connection reset by peer: socket write error
+[191432583] Error receiving message: Connection reset
+[191432644] Turn number: 116
+[191432656] Empty move from player 1
+[191432656] ----------------------------------------------------
+[191432687] Error sending message: Connection reset by peer: socket write error
+[191432688] Error sending message: Connection reset by peer: socket write error
+[191432688] Error receiving message: Connection reset
+[191432980] Turn number: 117
+[191432980] Empty move from player 1
+[191432980] ----------------------------------------------------
+[191433010] Error sending message: Connection reset by peer: socket write error
+[191433011] Error sending message: Connection reset by peer: socket write error
+[191433011] Error receiving message: Connection reset
+[191433027] Turn number: 118
+[191433027] Empty move from player 1
+[191433027] ----------------------------------------------------
+[191433034] Blue Re-spawned at  (21, 6)
+[191433039] Error sending message: Connection reset by peer: socket write error
+[191433040] Error sending message: Connection reset by peer: socket write error
+[191433041] Error receiving message: Connection reset
+[191433056] Turn number: 119
+[191433056] Empty move from player 1
+[191433056] ----------------------------------------------------
+[191433059] Red-Jerpentine Acquired Territory, now at  (23, 3)
+[191433072] Error sending message: Connection reset by peer: socket write error
+[191433074] Error sending message: Connection reset by peer: socket write error
+[191433074] Error receiving message: Connection reset
+[191433093] Turn number: 120
+[191433093] Empty move from player 1
+[191433093] ----------------------------------------------------
+[191433100] Error sending message: Connection reset by peer: socket write error
+[191433099] Green-Jerpentine Acquired Territory, now at  (26, 5)
+[191433101] Error sending message: Connection reset by peer: socket write error
+[191433101] Error receiving message: Connection reset
+[191433123] Turn number: 121
+[191433123] Empty move from player 1
+[191433123] ----------------------------------------------------
+[191433128] Error sending message: Connection reset by peer: socket write error
+[191433130] Error sending message: Connection reset by peer: socket write error
+[191433130] Error receiving message: Connection reset
+[191433140] Turn number: 122
+[191433140] Empty move from player 1
+[191433140] ----------------------------------------------------
+[191433143] Purple-Jerpentine Acquired Territory, now at  (7, 9)
+[191433150] Error sending message: Connection reset by peer: socket write error
+[191433151] Error sending message: Connection reset by peer: socket write error
+[191433151] Error receiving message: Connection reset
+[191433167] Turn number: 123
+[191433168] Empty move from player 1
+[191433168] ----------------------------------------------------
+[191433171] Blue Acquired Territory, now at  (21, 1)
+[191433173] Error sending message: Connection reset by peer: socket write error
+[191433174] Error sending message: Connection reset by peer: socket write error
+[191433174] Error receiving message: Connection reset
+[191433194] Turn number: 124
+[191433194] Empty move from player 1
+[191433194] ----------------------------------------------------
+[191433199] Red-Jerpentine Died at  (26, 3)
+[191433199] Red-Jerpentine Head on Collision at  (-1, -1)
+[191433199] Green-Jerpentine Died at  (26, 3)
+[191433199] Green-Jerpentine Head on Collision at  (-1, -1)
+[191433208] Error sending message: Connection reset by peer: socket write error
+[191433210] Error sending message: Connection reset by peer: socket write error
+[191433210] Error receiving message: Connection reset
+[191433228] Turn number: 125
+[191433228] Empty move from player 1
+[191433228] ----------------------------------------------------
+[191433235] Error sending message: Connection reset by peer: socket write error
+[191433236] Error sending message: Connection reset by peer: socket write error
+[191433236] Error receiving message: Connection reset
+[191433253] Turn number: 126
+[191433253] Empty move from player 1
+[191433253] ----------------------------------------------------
+[191433267] Error sending message: Connection reset by peer: socket write error
+[191433268] Error sending message: Connection reset by peer: socket write error
+[191433269] Error receiving message: Connection reset
+[191433304] Turn number: 127
+[191433305] Empty move from player 1
+[191433306] ----------------------------------------------------
+[191433320] Error sending message: Connection reset by peer: socket write error
+[191433321] Error sending message: Connection reset by peer: socket write error
+[191433321] Error receiving message: Connection reset
+[191433355] Turn number: 128
+[191433355] Empty move from player 1
+[191433355] ----------------------------------------------------
+[191433359] Error sending message: Connection reset by peer: socket write error
+[191433356] Purple-Jerpentine Acquired Territory, now at  (7, 7)
+[191433360] Error sending message: Connection reset by peer: socket write error
+[191433360] Error receiving message: Connection reset
+[191433420] Turn number: 129
+[191433420] Empty move from player 1
+[191433420] ----------------------------------------------------
+[191433461] Error sending message: Connection reset by peer: socket write error
+[191433462] Error sending message: Connection reset by peer: socket write error
+[191433462] Error receiving message: Connection reset
+[191433493] Turn number: 130
+[191433497] Empty move from player 1
+[191433498] ----------------------------------------------------
+[191433506] Error sending message: Connection reset by peer: socket write error
+[191433508] Error sending message: Connection reset by peer: socket write error
+[191433508] Error receiving message: Connection reset
+[191433532] Turn number: 131
+[191433532] Empty move from player 1
+[191433532] ----------------------------------------------------
+[191433551] Error sending message: Connection reset by peer: socket write error
+[191433554] Error sending message: Connection reset by peer: socket write error
+[191433554] Error receiving message: Connection reset
+[191433577] Turn number: 132
+[191433577] Empty move from player 1
+[191433577] ----------------------------------------------------
+[191433588] Error sending message: Connection reset by peer: socket write error
+[191433590] Error sending message: Connection reset by peer: socket write error
+[191433590] Error receiving message: Connection reset
+[191433609] Turn number: 133
+[191433609] Empty move from player 1
+[191433612] ----------------------------------------------------
+[191433620] Error sending message: Connection reset by peer: socket write error
+[191433622] Error sending message: Connection reset by peer: socket write error
+[191433622] Error receiving message: Connection reset
+[191433636] Turn number: 134
+[191433637] Empty move from player 1
+[191433637] ----------------------------------------------------
+[191433658] Error sending message: Connection reset by peer: socket write error
+[191433661] Error sending message: Connection reset by peer: socket write error
+[191433662] Error receiving message: Connection reset
+[191433709] Turn number: 135
+[191433709] Empty move from player 1
+[191433709] ----------------------------------------------------
+[191433716] Purple-Jerpentine Acquired Territory, now at  (8, 7)
+[191433722] Error sending message: Connection reset by peer: socket write error
+[191433724] Error sending message: Connection reset by peer: socket write error
+[191433724] Error receiving message: Connection reset
+[191433737] Turn number: 136
+[191433737] Empty move from player 1
+[191433737] ----------------------------------------------------
+[191433757] Error sending message: Connection reset by peer: socket write error
+[191433761] Error sending message: Connection reset by peer: socket write error
+[191433761] Error receiving message: Connection reset
+[191433834] Turn number: 137
+[191433834] Empty move from player 1
+[191433835] ----------------------------------------------------
+[191433845] Error sending message: Connection reset by peer: socket write error
+[191433846] Error sending message: Connection reset by peer: socket write error
+[191433846] Error receiving message: Connection reset
+[191433860] Turn number: 138
+[191433860] Empty move from player 1
+[191433860] ----------------------------------------------------
+[191433872] Error sending message: Connection reset by peer: socket write error
+[191433874] Error sending message: Connection reset by peer: socket write error
+[191433875] Error receiving message: Connection reset
+[191433908] Turn number: 139
+[191433914] Empty move from player 1
+[191433914] ----------------------------------------------------
+[191433931] Error sending message: Connection reset by peer: socket write error
+[191433935] Error sending message: Connection reset by peer: socket write error
+[191433937] Error receiving message: Connection reset
+[191433961] Turn number: 140
+[191433961] Empty move from player 1
+[191433962] ----------------------------------------------------
+[191433987] Error sending message: Connection reset by peer: socket write error
+[191433990] Error sending message: Connection reset by peer: socket write error
+[191433990] Error receiving message: Connection reset
+[191434021] Turn number: 141
+[191434021] Empty move from player 1
+[191434022] ----------------------------------------------------
+[191434047] Error sending message: Connection reset by peer: socket write error
+[191434047] Error sending message: Connection reset by peer: socket write error
+[191434047] Error receiving message: Connection reset
+[191434076] Turn number: 142
+[191434076] Empty move from player 1
+[191434076] ----------------------------------------------------
+[191434083] Purple-Jerpentine Acquired Territory, now at  (8, 6)
+[191434087] Error sending message: Connection reset by peer: socket write error
+[191434088] Error sending message: Connection reset by peer: socket write error
+[191434088] Error receiving message: Connection reset
+[191434111] Turn number: 143
+[191434111] Empty move from player 1
+[191434111] ----------------------------------------------------
+[191434124] Error sending message: Connection reset by peer: socket write error
+[191434125] Error sending message: Connection reset by peer: socket write error
+[191434125] Error receiving message: Connection reset
+[191434141] Turn number: 144
+[191434141] Empty move from player 1
+[191434141] ----------------------------------------------------
+[191434155] Error sending message: Connection reset by peer: socket write error
+[191434156] Error sending message: Connection reset by peer: socket write error
+[191434157] Error receiving message: Connection reset
+[191434171] Turn number: 145
+[191434171] Empty move from player 1
+[191434171] ----------------------------------------------------
+[191434194] Error sending message: Connection reset by peer: socket write error
+[191434196] Error sending message: Connection reset by peer: socket write error
+[191434197] Error receiving message: Connection reset
+[191434221] Turn number: 146
+[191434221] Empty move from player 1
+[191434221] ----------------------------------------------------
+[191434239] Error sending message: Connection reset by peer: socket write error
+[191434242] Error sending message: Connection reset by peer: socket write error
+[191434242] Error receiving message: Connection reset
+[191434262] Turn number: 147
+[191434268] Error sending message: Connection reset by peer: socket write error
+[191434262] Empty move from player 1
+[191434270] Error sending message: Connection reset by peer: socket write error
+[191434270] Error receiving message: Connection reset
+[191434262] ----------------------------------------------------
+[191434290] Turn number: 148
+[191434290] Empty move from player 1
+[191434290] ----------------------------------------------------
+[191434299] Error sending message: Connection reset by peer: socket write error
+[191434301] Error sending message: Connection reset by peer: socket write error
+[191434301] Error receiving message: Connection reset
+[191434323] Turn number: 149
+[191434332] Error sending message: Connection reset by peer: socket write error
+[191434323] Empty move from player 1
+[191434334] Error sending message: Connection reset by peer: socket write error
+[191434323] ----------------------------------------------------
+[191434326] Red-Jerpentine Re-spawned at  (18, 3)
+[191434327] Green-Jerpentine Re-spawned at  (25, 24)
+[191434346] Turn number: 150
+[191434334] Error receiving message: Connection reset
+[191434355] Error sending message: Connection reset by peer: socket write error
+[191434346] Empty move from player 1
+[191434346] ----------------------------------------------------
+[191434356] Error sending message: Connection reset by peer: socket write error
+[191434356] Error receiving message: Connection reset
+[191434372] Turn number: 151
+[191434372] Empty move from player 1
+[191434372] ----------------------------------------------------
+[191434376] Purple-Jerpentine Acquired Territory, now at  (8, 5)
+[191434379] Error sending message: Connection reset by peer: socket write error
+[191434382] Error sending message: Connection reset by peer: socket write error
+[191434382] Error receiving message: Connection reset
+[191434399] Turn number: 152
+[191434399] Empty move from player 1
+[191434399] ----------------------------------------------------
+[191434406] Error sending message: Connection reset by peer: socket write error
+[191434407] Error sending message: Connection reset by peer: socket write error
+[191434407] Error receiving message: Connection reset
+[191434426] Turn number: 153
+[191434428] Empty move from player 1
+[191434430] ----------------------------------------------------
+[191434436] Error sending message: Connection reset by peer: socket write error
+[191434438] Error sending message: Connection reset by peer: socket write error
+[191434438] Error receiving message: Connection reset
+[191434483] Turn number: 154
+[191434483] Empty move from player 1
+[191434483] ----------------------------------------------------
+[191434486] Red-Jerpentine Acquired Territory, now at  (19, 5)
+[191434487] Green-Jerpentine Acquired Territory, now at  (24, 24)
+[191434492] Error sending message: Connection reset by peer: socket write error
+[191434495] Error sending message: Connection reset by peer: socket write error
+[191434495] Error receiving message: Connection reset
+[191434529] Turn number: 155
+[191434529] Empty move from player 1
+[191434530] ----------------------------------------------------
+[191434539] Error sending message: Connection reset by peer: socket write error
+[191434541] Error sending message: Connection reset by peer: socket write error
+[191434542] Error receiving message: Connection reset
+[191434560] Turn number: 156
+[191434561] Empty move from player 1
+[191434561] ----------------------------------------------------
+[191434566] Error sending message: Connection reset by peer: socket write error
+[191434567] Error sending message: Connection reset by peer: socket write error
+[191434567] Error receiving message: Connection reset
+[191434579] Turn number: 157
+[191434580] Empty move from player 1
+[191434580] ----------------------------------------------------
+[191434583] Purple-Jerpentine Acquired Territory, now at  (8, 3)
+[191434587] Error sending message: Connection reset by peer: socket write error
+[191434588] Error sending message: Connection reset by peer: socket write error
+[191434588] Error receiving message: Connection reset
+[191434599] Turn number: 158
+[191434599] Empty move from player 1
+[191434599] ----------------------------------------------------
+[191434607] Error sending message: Connection reset by peer: socket write error
+[191434608] Error sending message: Connection reset by peer: socket write error
+[191434608] Error receiving message: Connection reset
+[191434629] Turn number: 159
+[191434635] Error sending message: Connection reset by peer: socket write error
+[191434636] Error sending message: Connection reset by peer: socket write error
+[191434629] Empty move from player 1
+[191434636] Error receiving message: Connection reset
+[191434630] ----------------------------------------------------
+[191434651] Error sending message: Connection reset by peer: socket write error
+[191434631] Red-Jerpentine Acquired Territory, now at  (22, 5)
+[191434633] Green-Jerpentine Acquired Territory, now at  (24, 21)
+[191434643] Turn number: 160
+[191434643] Empty move from player 1
+[191434643] ----------------------------------------------------
+[191434659] Turn number: 161
+[191434659] Empty move from player 1
+[191434659] ----------------------------------------------------
+[191434653] Error sending message: Connection reset by peer: socket write error
+[191434653] Error receiving message: Connection reset
+[191434665] Error sending message: Connection reset by peer: socket write error
+[191434666] Error sending message: Connection reset by peer: socket write error
+[191434667] Error receiving message: Connection reset
+[191434688] Turn number: 162
+[191434688] Empty move from player 1
+[191434688] ----------------------------------------------------
+[191434697] Error sending message: Connection reset by peer: socket write error
+[191434699] Error sending message: Connection reset by peer: socket write error
+[191434699] Error receiving message: Connection reset
+[191434714] Turn number: 163
+[191434715] Empty move from player 1
+[191434715] ----------------------------------------------------
+[191434726] Error sending message: Connection reset by peer: socket write error
+[191434727] Error sending message: Connection reset by peer: socket write error
+[191434727] Error receiving message: Connection reset
+[191434739] Turn number: 164
+[191434740] Empty move from player 1
+[191434744] Error sending message: Connection reset by peer: socket write error
+[191434740] ----------------------------------------------------
+[191434742] Green-Jerpentine Acquired Territory, now at  (24, 18)
+[191434747] Error sending message: Connection reset by peer: socket write error
+[191434747] Error receiving message: Connection reset
+[191434742] Purple-Jerpentine Acquired Territory, now at  (9, 3)
+[191434758] Turn number: 165
+[191434758] Empty move from player 1
+[191434758] ----------------------------------------------------
+[191434765] Red-Jerpentine Acquired Territory, now at  (23, 4)
+[191434768] Error sending message: Connection reset by peer: socket write error
+[191434769] Error sending message: Connection reset by peer: socket write error
+[191434769] Error receiving message: Connection reset
+[191434784] Turn number: 166
+[191434784] Empty move from player 1
+[191434784] ----------------------------------------------------
+[191434786] Error sending message: Connection reset by peer: socket write error
+[191434789] Error sending message: Connection reset by peer: socket write error
+[191434789] Error receiving message: Connection reset
+[191434805] Turn number: 167
+[191434805] Empty move from player 1
+[191434805] ----------------------------------------------------
+[191434810] Error sending message: Connection reset by peer: socket write error
+[191434811] Error sending message: Connection reset by peer: socket write error
+[191434811] Error receiving message: Connection reset
+[191434822] Turn number: 168
+[191434822] Empty move from player 1
+[191434823] ----------------------------------------------------
+[191434833] Error sending message: Connection reset by peer: socket write error
+[191434837] Error sending message: Connection reset by peer: socket write error
+[191434837] Error receiving message: Connection reset
+[191434851] Turn number: 169
+[191434851] Empty move from player 1
+[191434851] ----------------------------------------------------
+[191434856] Green-Jerpentine Acquired Territory, now at  (24, 15)
+[191434860] Error sending message: Connection reset by peer: socket write error
+[191434862] Error sending message: Connection reset by peer: socket write error
+[191434862] Error receiving message: Connection reset
+[191434876] Turn number: 170
+[191434877] Empty move from player 1
+[191434878] ----------------------------------------------------
+[191434894] Error sending message: Connection reset by peer: socket write error
+[191434895] Error sending message: Connection reset by peer: socket write error
+[191434895] Error receiving message: Connection reset
+[191434908] Turn number: 171
+[191434908] Empty move from player 1
+[191434908] ----------------------------------------------------
+[191434912] Red-Jerpentine Acquired Territory, now at  (24, 5)
+[191434912] Purple-Jerpentine Acquired Territory, now at  (9, 2)
+[191434915] Error sending message: Connection reset by peer: socket write error
+[191434916] Error sending message: Connection reset by peer: socket write error
+[191434916] Error receiving message: Connection reset
+[191434931] Turn number: 172
+[191434931] Empty move from player 1
+[191434931] ----------------------------------------------------
+[191434938] Error sending message: Connection reset by peer: socket write error
+[191434938] Error sending message: Connection reset by peer: socket write error
+[191434938] Error receiving message: Connection reset
+[191434964] Turn number: 173
+[191434964] Empty move from player 1
+[191434968] Error sending message: Connection reset by peer: socket write error
+[191434964] ----------------------------------------------------
+[191434969] Error sending message: Connection reset by peer: socket write error
+[191434969] Error receiving message: Connection reset
+[191434980] Turn number: 174
+[191434980] Empty move from player 1
+[191434980] ----------------------------------------------------
+[191434982] Green-Jerpentine Acquired Territory, now at  (24, 12)
+[191434986] Error sending message: Connection reset by peer: socket write error
+[191434987] Error sending message: Connection reset by peer: socket write error
+[191434987] Error receiving message: Connection reset
+[191434998] Turn number: 175
+[191434998] Empty move from player 1
+[191434998] ----------------------------------------------------
+[191435003] Error sending message: Connection reset by peer: socket write error
+[191435005] Error sending message: Connection reset by peer: socket write error
+[191435005] Error receiving message: Connection reset
+[191435019] Turn number: 176
+[191435019] Empty move from player 1
+[191435019] ----------------------------------------------------
+[191435029] Error sending message: Connection reset by peer: socket write error
+[191435030] Error sending message: Connection reset by peer: socket write error
+[191435036] Turn number: 177
+[191435030] Error receiving message: Connection reset
+[191435036] Empty move from player 1
+[191435041] Error sending message: Connection reset by peer: socket write error
+[191435036] ----------------------------------------------------
+[191435042] Error sending message: Connection reset by peer: socket write error
+[191435042] Error receiving message: Connection reset
+[191435050] Turn number: 178
+[191435050] Empty move from player 1
+[191435050] ----------------------------------------------------
+[191435060] Error sending message: Connection reset by peer: socket write error
+[191435061] Error sending message: Connection reset by peer: socket write error
+[191435061] Error receiving message: Connection reset
+[191435073] Turn number: 179
+[191435073] Empty move from player 1
+[191435073] ----------------------------------------------------
+[191435076] Red-Jerpentine Acquired Territory, now at  (25, 4)
+[191435080] Error sending message: Connection reset by peer: socket write error
+[191435077] Green-Jerpentine Acquired Territory, now at  (24, 9)
+[191435077] Purple-Jerpentine Acquired Territory, now at  (11, 2)
+[191435081] Error sending message: Connection reset by peer: socket write error
+[191435082] Error receiving message: Connection reset
+[191435096] Turn number: 180
+[191435096] Empty move from player 1
+[191435096] ----------------------------------------------------
+[191435107] Error sending message: Connection reset by peer: socket write error
+[191435108] Error sending message: Connection reset by peer: socket write error
+[191435108] Error receiving message: Connection reset
+[191435123] Turn number: 181
+[191435123] Empty move from player 1
+[191435123] ----------------------------------------------------
+[191435138] Error sending message: Connection reset by peer: socket write error
+[191435139] Error sending message: Connection reset by peer: socket write error
+[191435139] Error receiving message: Connection reset
+[191435155] Turn number: 182
+[191435155] Empty move from player 1
+[191435155] ----------------------------------------------------
+[191435164] Error sending message: Connection reset by peer: socket write error
+[191435165] Error sending message: Connection reset by peer: socket write error
+[191435167] Error receiving message: Connection reset
+[191435177] Turn number: 183
+[191435177] Empty move from player 1
+[191435177] ----------------------------------------------------
+[191435203] Error sending message: Connection reset by peer: socket write error
+[191435204] Error sending message: Connection reset by peer: socket write error
+[191435204] Error receiving message: Connection reset
+[191435211] Turn number: 184
+[191435211] Empty move from player 1
+[191435211] ----------------------------------------------------
+[191435213] Green-Jerpentine Acquired Territory, now at  (24, 8)
+[191435226] Error sending message: Connection reset by peer: socket write error
+[191435228] Error sending message: Connection reset by peer: socket write error
+[191435229] Error receiving message: Connection reset
+[191435260] Turn number: 185
+[191435260] Empty move from player 1
+[191435260] ----------------------------------------------------
+[191435270] Purple-Jerpentine Acquired Territory, now at  (12, 3)
+[191435277] Error sending message: Connection reset by peer: socket write error
+[191435278] Error sending message: Connection reset by peer: socket write error
+[191435278] Error receiving message: Connection reset
+[191435289] Turn number: 186
+[191435290] Empty move from player 1
+[191435297] Error sending message: Connection reset by peer: socket write error
+[191435290] ----------------------------------------------------
+[191435295] Red-Jerpentine Acquired Territory, now at  (27, 5)
+[191435298] Error sending message: Connection reset by peer: socket write error
+[191435298] Error receiving message: Connection reset
+[191435313] Turn number: 187
+[191435314] Empty move from player 1
+[191435320] Error sending message: Connection reset by peer: socket write error
+[191435314] ----------------------------------------------------
+[191435322] Error sending message: Connection reset by peer: socket write error
+[191435323] Error receiving message: Connection reset
+[191435336] Turn number: 188
+[191435336] Empty move from player 1
+[191435336] ----------------------------------------------------
+[191435344] Error sending message: Connection reset by peer: socket write error
+[191435346] Error sending message: Connection reset by peer: socket write error
+[191435346] Error receiving message: Connection reset
+[191435361] Turn number: 189
+[191435361] Empty move from player 1
+[191435361] ----------------------------------------------------
+[191435365] Green-Jerpentine Acquired Territory, now at  (25, 6)
+[191435372] Error sending message: Connection reset by peer: socket write error
+[191435374] Error sending message: Connection reset by peer: socket write error
+[191435374] Error receiving message: Connection reset
+[191435398] Turn number: 190
+[191435399] Empty move from player 1
+[191435399] ----------------------------------------------------
+[191435411] Error sending message: Connection reset by peer: socket write error
+[191435412] Error sending message: Connection reset by peer: socket write error
+[191435413] Error receiving message: Connection reset
+[191435430] Turn number: 191
+[191435430] Empty move from player 1
+[191435430] ----------------------------------------------------
+[191435440] Error sending message: Connection reset by peer: socket write error
+[191435441] Error sending message: Connection reset by peer: socket write error
+[191435441] Error receiving message: Connection reset
+[191435470] Turn number: 192
+[191435470] Empty move from player 1
+[191435470] ----------------------------------------------------
+[191435479] Error sending message: Connection reset by peer: socket write error
+[191435481] Error sending message: Connection reset by peer: socket write error
+[191435481] Error receiving message: Connection reset
+[191435515] Turn number: 193
+[191435515] Empty move from player 1
+[191435515] ----------------------------------------------------
+[191435524] Red-Jerpentine Acquired Territory, now at  (27, 4)
+[191435524] Green-Jerpentine Acquired Territory, now at  (27, 8)
+[191435524] Purple-Jerpentine Acquired Territory, now at  (13, 2)
+[191435528] Error sending message: Connection reset by peer: socket write error
+[191435530] Error sending message: Connection reset by peer: socket write error
+[191435530] Error receiving message: Connection reset
+[191435555] Turn number: 194
+[191435555] Empty move from player 1
+[191435555] ----------------------------------------------------
+[191435572] Error sending message: Connection reset by peer: socket write error
+[191435572] Error sending message: Connection reset by peer: socket write error
+[191435573] Error receiving message: Connection reset
+[191435605] Turn number: 195
+[191435606] Empty move from player 1
+[191435606] ----------------------------------------------------
+[191435618] Error sending message: Connection reset by peer: socket write error
+[191435620] Error sending message: Connection reset by peer: socket write error
+[191435622] Error receiving message: Connection reset
+[191435628] Turn number: 196
+[191435628] Empty move from player 1
+[191435628] ----------------------------------------------------
+[191435639] Error sending message: Connection reset by peer: socket write error
+[191435640] Error sending message: Connection reset by peer: socket write error
+[191435641] Error receiving message: Connection reset
+[191435655] Turn number: 197
+[191435655] Empty move from player 1
+[191435655] ----------------------------------------------------
+[191435661] Error sending message: Connection reset by peer: socket write error
+[191435663] Error sending message: Connection reset by peer: socket write error
+[191435663] Error receiving message: Connection reset
+[191435680] Turn number: 198
+[191435680] Empty move from player 1
+[191435680] ----------------------------------------------------
+[191435688] Error sending message: Connection reset by peer: socket write error
+[191435691] Error sending message: Connection reset by peer: socket write error
+[191435691] Error receiving message: Connection reset
+[191435703] Turn number: 199
+[191435704] Empty move from player 1
+[191435704] ----------------------------------------------------
+[191435736] Error sending message: Connection reset by peer: socket write error
+[191435737] Error sending message: Connection reset by peer: socket write error
+[191435737] Error receiving message: Connection reset
+[191435753] Turn number: 200
+[191435753] Empty move from player 1
+[191435753] ----------------------------------------------------
+[191435755] Red-Jerpentine Killed AI at  (27, 5)
+[191435755] Green-Jerpentine Died at  (28, 6)
+[191435760] Error sending message: Connection reset by peer: socket write error
+[191435761] Error sending message: Connection reset by peer: socket write error
+[191435755] Red-Jerpentine Acquired Territory, now at  (27, 5)
+[191435761] Error receiving message: Connection reset
+[191435755] Purple-Jerpentine Acquired Territory, now at  (15, 3)
+[191435776] Turn number: 201
+[191435776] Empty move from player 1
+[191435776] ----------------------------------------------------
+[191435784] Error sending message: Connection reset by peer: socket write error
+[191435789] Error sending message: Connection reset by peer: socket write error
+[191435792] Error receiving message: Connection reset
+[191435801] Turn number: 202
+[191435802] Empty move from player 1
+[191435802] ----------------------------------------------------
+[191435814] Error sending message: Connection reset by peer: socket write error
+[191435815] Error sending message: Connection reset by peer: socket write error
+[191435815] Error receiving message: Connection reset
+[191435826] Turn number: 203
+[191435827] Empty move from player 1
+[191435827] ----------------------------------------------------
+[191435837] Error sending message: Connection reset by peer: socket write error
+[191435839] Error sending message: Connection reset by peer: socket write error
+[191435839] Error receiving message: Connection reset
+[191435848] Turn number: 204
+[191435848] Empty move from player 1
+[191435848] ----------------------------------------------------
+[191435863] Error sending message: Connection reset by peer: socket write error
+[191435864] Error sending message: Connection reset by peer: socket write error
+[191435864] Error receiving message: Connection reset
+[191435873] Turn number: 205
+[191435873] Empty move from player 1
+[191435873] ----------------------------------------------------
+[191435881] Error sending message: Connection reset by peer: socket write error
+[191435883] Error sending message: Connection reset by peer: socket write error
+[191435883] Error receiving message: Connection reset
+[191435893] Turn number: 206
+[191435894] Empty move from player 1
+[191435894] ----------------------------------------------------
+[191435903] Error sending message: Connection reset by peer: socket write error
+[191435906] Error sending message: Connection reset by peer: socket write error
+[191435906] Error receiving message: Connection reset
+[191435923] Turn number: 207
+[191435923] Empty move from player 1
+[191435923] ----------------------------------------------------
+[191435928] Purple-Jerpentine Acquired Territory, now at  (15, 2)
+[191435932] Error sending message: Connection reset by peer: socket write error
+[191435933] Error sending message: Connection reset by peer: socket write error
+[191435934] Error receiving message: Connection reset
+[191435946] Turn number: 208
+[191435947] Empty move from player 1
+[191435947] ----------------------------------------------------
+[191435953] Red-Jerpentine Acquired Territory, now at  (27, 7)
+[191435958] Error sending message: Connection reset by peer: socket write error
+[191435959] Error sending message: Connection reset by peer: socket write error
+[191435959] Error receiving message: Connection reset
+[191435968] Turn number: 209
+[191435968] Empty move from player 1
+[191435968] ----------------------------------------------------
+[191435981] Error sending message: Connection reset by peer: socket write error
+[191435982] Error sending message: Connection reset by peer: socket write error
+[191435982] Error receiving message: Connection reset
+[191435993] Turn number: 210
+[191435994] Empty move from player 1
+[191435994] ----------------------------------------------------
+[191436008] Error sending message: Connection reset by peer: socket write error
+[191436010] Error sending message: Connection reset by peer: socket write error
+[191436010] Error receiving message: Connection reset
+[191436056] Turn number: 211
+[191436056] Empty move from player 1
+[191436065] Error sending message: Connection reset by peer: socket write error
+[191436056] ----------------------------------------------------
+[191436067] Error sending message: Connection reset by peer: socket write error
+[191436068] Error receiving message: Connection reset
+[191436078] Turn number: 212
+[191436078] Empty move from player 1
+[191436078] ----------------------------------------------------
+[191436095] Error sending message: Connection reset by peer: socket write error
+[191436102] Error sending message: Connection reset by peer: socket write error
+[191436107] Error receiving message: Connection reset
+[191436117] Turn number: 213
+[191436117] Empty move from player 1
+[191436117] ----------------------------------------------------
+[191436122] Red-Jerpentine Acquired Territory, now at  (23, 6)
+[191436129] Error sending message: Connection reset by peer: socket write error
+[191436130] Error sending message: Connection reset by peer: socket write error
+[191436139] Turn number: 214
+[191436130] Error receiving message: Connection reset
+[191436139] Empty move from player 1
+[191436148] Error sending message: Connection reset by peer: socket write error
+[191436140] ----------------------------------------------------
+[191436150] Error sending message: Connection reset by peer: socket write error
+[191436151] Error receiving message: Connection reset
+[191436166] Turn number: 215
+[191436167] Empty move from player 1
+[191436167] ----------------------------------------------------
+[191436176] Purple-Jerpentine Acquired Territory, now at  (17, 2)
+[191436184] Error sending message: Connection reset by peer: socket write error
+[191436185] Error sending message: Connection reset by peer: socket write error
+[191436185] Error receiving message: Connection reset
+[191436193] Turn number: 216
+[191436193] Empty move from player 1
+[191436202] Error sending message: Connection reset by peer: socket write error
+[191436193] ----------------------------------------------------
+[191436204] Error sending message: Connection reset by peer: socket write error
+[191436204] Error receiving message: Connection reset
+[191436236] Turn number: 217
+[191436236] Empty move from player 1
+[191436236] ----------------------------------------------------
+[191436246] Red-Jerpentine Acquired Territory, now at  (24, 7)
+[191436253] Error sending message: Connection reset by peer: socket write error
+[191436254] Error sending message: Connection reset by peer: socket write error
+[191436254] Error receiving message: Connection reset
+[191436271] Turn number: 218
+[191436271] Empty move from player 1
+[191436271] ----------------------------------------------------
+[191436285] Error sending message: Connection reset by peer: socket write error
+[191436285] Error sending message: Connection reset by peer: socket write error
+[191436286] Error receiving message: Connection reset
+[191436302] Turn number: 219
+[191436302] Empty move from player 1
+[191436302] ----------------------------------------------------
+[191436310] Error sending message: Connection reset by peer: socket write error
+[191436311] Error sending message: Connection reset by peer: socket write error
+[191436311] Error receiving message: Connection reset
+[191436321] Turn number: 220
+[191436321] Empty move from player 1
+[191436321] ----------------------------------------------------
+[191436330] Error sending message: Connection reset by peer: socket write error
+[191436332] Error sending message: Connection reset by peer: socket write error
+[191436332] Error receiving message: Connection reset
+[191436346] Turn number: 221
+[191436346] Empty move from player 1
+[191436346] ----------------------------------------------------
+[191436351] Purple-Jerpentine Acquired Territory, now at  (18, 3)
+[191436358] Error sending message: Connection reset by peer: socket write error
+[191436359] Error sending message: Connection reset by peer: socket write error
+[191436359] Error receiving message: Connection reset
+[191436372] Turn number: 222
+[191436373] Empty move from player 1
+[191436373] ----------------------------------------------------
+[191436392] Error sending message: Connection reset by peer: socket write error
+[191436393] Error sending message: Connection reset by peer: socket write error
+[191436393] Error receiving message: Connection reset
+[191436414] Turn number: 223
+[191436414] Empty move from player 1
+[191436414] ----------------------------------------------------
+[191436422] Error sending message: Connection reset by peer: socket write error
+[191436424] Error sending message: Connection reset by peer: socket write error
+[191436424] Error receiving message: Connection reset
+[191436438] Turn number: 224
+[191436438] Empty move from player 1
+[191436438] ----------------------------------------------------
+[191436446] Error sending message: Connection reset by peer: socket write error
+[191436448] Error sending message: Connection reset by peer: socket write error
+[191436448] Error receiving message: Connection reset
+[191436461] Turn number: 225
+[191436461] Empty move from player 1
+[191436461] ----------------------------------------------------
+[191436474] Green-Jerpentine Re-spawned at  (23, 9)
+[191436490] Error sending message: Connection reset by peer: socket write error
+[191436491] Error sending message: Connection reset by peer: socket write error
+[191436491] Error receiving message: Connection reset
+[191436509] Turn number: 226
+[191436510] Empty move from player 1
+[191436510] ----------------------------------------------------
+[191436513] Red-Jerpentine Acquired Territory, now at  (24, 8)
+[191436523] Error sending message: Connection reset by peer: socket write error
+[191436525] Error sending message: Connection reset by peer: socket write error
+[191436525] Error receiving message: Connection reset
+[191436542] Turn number: 227
+[191436542] Empty move from player 1
+[191436542] ----------------------------------------------------
+[191436546] Red-Jerpentine Killed AI at  (23, 8)
+[191436552] Error sending message: Connection reset by peer: socket write error
+[191436546] Green-Jerpentine Died at  (23, 7)
+[191436554] Error sending message: Connection reset by peer: socket write error
+[191436554] Error receiving message: Connection reset
+[191436568] Turn number: 228
+[191436568] Empty move from player 1
+[191436572] Error sending message: Connection reset by peer: socket write error
+[191436568] ----------------------------------------------------
+[191436575] Error sending message: Connection reset by peer: socket write error
+[191436575] Error receiving message: Connection reset
+[191436585] Turn number: 229
+[191436585] Empty move from player 1
+[191436585] ----------------------------------------------------
+[191436592] Purple-Jerpentine Acquired Territory, now at  (19, 2)
+[191436596] Error sending message: Connection reset by peer: socket write error
+[191436597] Error sending message: Connection reset by peer: socket write error
+[191436598] Error receiving message: Connection reset
+[191436611] Turn number: 230
+[191436611] Empty move from player 1
+[191436611] ----------------------------------------------------
+[191436619] Error sending message: Connection reset by peer: socket write error
+[191436621] Error sending message: Connection reset by peer: socket write error
+[191436621] Error receiving message: Connection reset
+[191436646] Turn number: 231
+[191436646] Empty move from player 1
+[191436646] ----------------------------------------------------
+[191436647] Red-Jerpentine Acquired Territory, now at  (21, 6)
+[191436651] Error sending message: Connection reset by peer: socket write error
+[191436652] Error sending message: Connection reset by peer: socket write error
+[191436652] Error receiving message: Connection reset
+[191436691] Turn number: 232
+[191436692] Empty move from player 1
+[191436692] ----------------------------------------------------
+[191436695] Error sending message: Connection reset by peer: socket write error
+[191436696] Error sending message: Connection reset by peer: socket write error
+[191436696] Error receiving message: Connection reset
+[191436702] Turn number: 233
+[191436702] Empty move from player 1
+[191436702] ----------------------------------------------------
+[191436706] Error sending message: Connection reset by peer: socket write error
+[191436709] Error sending message: Connection reset by peer: socket write error
+[191436709] Error receiving message: Connection reset
+[191436715] Turn number: 234
+[191436715] Empty move from player 1
+[191436716] ----------------------------------------------------
+[191436723] Error sending message: Connection reset by peer: socket write error
+[191436724] Error sending message: Connection reset by peer: socket write error
+[191436730] Turn number: 235
+[191436730] Empty move from player 1
+[191436730] ----------------------------------------------------
+[191436724] Error receiving message: Connection reset
+[191436743] Error sending message: Connection reset by peer: socket write error
+[191436744] Error sending message: Connection reset by peer: socket write error
+[191436744] Error receiving message: Connection reset
+[191436770] Turn number: 236
+[191436770] Empty move from player 1
+[191436770] ----------------------------------------------------
+[191436776] Purple-Jerpentine Acquired Territory, now at  (21, 3)
+[191436780] Error sending message: Connection reset by peer: socket write error
+[191436782] Error sending message: Connection reset by peer: socket write error
+[191436782] Error receiving message: Connection reset
+[191436790] Turn number: 237
+[191436791] Empty move from player 1
+[191436791] ----------------------------------------------------
+[191436801] Error sending message: Connection reset by peer: socket write error
+[191436802] Error sending message: Connection reset by peer: socket write error
+[191436803] Error receiving message: Connection reset
+[191436815] Turn number: 238
+[191436816] Empty move from player 1
+[191436837] Error sending message: Connection reset by peer: socket write error
+[191436816] ----------------------------------------------------
+[191436830] Red-Jerpentine Acquired Territory, now at  (22, 8)
+[191436838] Error sending message: Connection reset by peer: socket write error
+[191436844] Error receiving message: Connection reset
+[191436862] Turn number: 239
+[191436862] Empty move from player 1
+[191436862] ----------------------------------------------------
+[191436887] Error sending message: Connection reset by peer: socket write error
+[191436890] Error sending message: Connection reset by peer: socket write error
+[191436890] Error receiving message: Connection reset
+[191436924] Turn number: 240
+[191436925] Empty move from player 1
+[191436926] ----------------------------------------------------
+[191436940] Error sending message: Connection reset by peer: socket write error
+[191436942] Error sending message: Connection reset by peer: socket write error
+[191436942] Error receiving message: Connection reset
+[191436959] Turn number: 241
+[191436960] Empty move from player 1
+[191436960] ----------------------------------------------------
+[191436983] Error sending message: Connection reset by peer: socket write error
+[191436985] Error sending message: Connection reset by peer: socket write error
+[191436985] Error receiving message: Connection reset
+[191437008] Turn number: 242
+[191437009] Empty move from player 1
+[191437009] ----------------------------------------------------
+[191437048] Error sending message: Connection reset by peer: socket write error
+[191437048] Error sending message: Connection reset by peer: socket write error
+[191437048] Error receiving message: Connection reset
+[191437073] Turn number: 243
+[191437073] Empty move from player 1
+[191437073] ----------------------------------------------------
+[191437080] Red-Jerpentine Acquired Territory, now at  (19, 6)
+[191437080] Purple-Jerpentine Acquired Territory, now at  (21, 2)
+[191437085] Error sending message: Connection reset by peer: socket write error
+[191437086] Error sending message: Connection reset by peer: socket write error
+[191437086] Error receiving message: Connection reset
+[191437100] Turn number: 244
+[191437101] Empty move from player 1
+[191437102] ----------------------------------------------------
+[191437107] Error sending message: Connection reset by peer: socket write error
+[191437109] Error sending message: Connection reset by peer: socket write error
+[191437109] Error receiving message: Connection reset
+[191437153] Turn number: 245
+[191437154] Empty move from player 1
+[191437154] ----------------------------------------------------
+[191437166] Error sending message: Connection reset by peer: socket write error
+[191437181] Error sending message: Connection reset by peer: socket write error
+[191437181] Error receiving message: Connection reset
+[191437193] Turn number: 246
+[191437193] Empty move from player 1
+[191437194] ----------------------------------------------------
+[191437213] Error sending message: Connection reset by peer: socket write error
+[191437215] Error sending message: Connection reset by peer: socket write error
+[191437217] Error receiving message: Connection reset
+[191437229] Turn number: 247
+[191437230] Empty move from player 1
+[191437230] ----------------------------------------------------
+[191437234] Error sending message: Connection reset by peer: socket write error
+[191437235] Error sending message: Connection reset by peer: socket write error
+[191437236] Error receiving message: Connection reset
+[191437247] Turn number: 248
+[191437247] Empty move from player 1
+[191437247] ----------------------------------------------------
+[191437253] Error sending message: Connection reset by peer: socket write error
+[191437255] Error sending message: Connection reset by peer: socket write error
+[191437255] Error receiving message: Connection reset
+[191437264] Turn number: 249
+[191437265] Empty move from player 1
+[191437265] ----------------------------------------------------
+[191437266] Red-Jerpentine Acquired Territory, now at  (19, 4)
+[191437271] Error sending message: Connection reset by peer: socket write error
+[191437274] Error sending message: Connection reset by peer: socket write error
+[191437274] Error receiving message: Connection reset
+[191437281] Turn number: 250
+[191437281] Empty move from player 1
+[191437281] ----------------------------------------------------
+[191437289] Error sending message: Connection reset by peer: socket write error
+[191437290] Error sending message: Connection reset by peer: socket write error
+[191437290] Error receiving message: Connection reset
+[191437301] Turn number: 251
+[191437301] Empty move from player 1
+[191437301] ----------------------------------------------------
+[191437310] Purple-Jerpentine Acquired Territory, now at  (23, 2)
+[191437319] Error sending message: Connection reset by peer: socket write error
+[191437324] Error sending message: Connection reset by peer: socket write error
+[191437324] Error receiving message: Connection reset
+[191437331] Turn number: 252
+[191437338] Error sending message: Connection reset by peer: socket write error
+[191437331] Empty move from player 1
+[191437331] ----------------------------------------------------
+[191437340] Error sending message: Connection reset by peer: socket write error
+[191437335] Green-Jerpentine Re-spawned at  (27, 19)
+[191437340] Error receiving message: Connection reset
+[191437356] Turn number: 253
+[191437356] Empty move from player 1
+[191437362] Error sending message: Connection reset by peer: socket write error
+[191437356] ----------------------------------------------------
+[191437363] Error sending message: Connection reset by peer: socket write error
+[191437363] Error receiving message: Connection reset
+[191437373] Turn number: 254
+[191437373] Empty move from player 1
+[191437373] ----------------------------------------------------
+[191437381] Error sending message: Connection reset by peer: socket write error
+[191437383] Error sending message: Connection reset by peer: socket write error
+[191437384] Error receiving message: Connection reset
+[191437405] Turn number: 255
+[191437412] Error sending message: Connection reset by peer: socket write error
+[191437405] Empty move from player 1
+[191437405] ----------------------------------------------------
+[191437415] Error sending message: Connection reset by peer: socket write error
+[191437416] Error receiving message: Connection reset
+[191437457] Turn number: 256
+[191437457] Empty move from player 1
+[191437457] ----------------------------------------------------
+[191437479] Error sending message: Connection reset by peer: socket write error
+[191437480] Error sending message: Connection reset by peer: socket write error
+[191437480] Error receiving message: Connection reset
+[191437536] Turn number: 257
+[191437537] Empty move from player 1
+[191437537] ----------------------------------------------------
+[191437542] Red-Jerpentine Acquired Territory, now at  (19, 4)
+[191437542] Purple-Jerpentine Acquired Territory, now at  (24, 3)
+[191437545] Error sending message: Connection reset by peer: socket write error
+[191437547] Error sending message: Connection reset by peer: socket write error
+[191437548] Error receiving message: Connection reset
+[191437567] Turn number: 258
+[191437567] Empty move from player 1
+[191437567] ----------------------------------------------------
+[191437573] Error sending message: Connection reset by peer: socket write error
+[191437575] Error sending message: Connection reset by peer: socket write error
+[191437576] Error receiving message: Connection reset
+[191437586] Turn number: 259
+[191437586] Empty move from player 1
+[191437586] ----------------------------------------------------
+[191437595] Error sending message: Connection reset by peer: socket write error
+[191437596] Error sending message: Connection reset by peer: socket write error
+[191437596] Error receiving message: Connection reset
+[191437608] Turn number: 260
+[191437618] Error sending message: Connection reset by peer: socket write error
+[191437608] Empty move from player 1
+[191437608] ----------------------------------------------------
+[191437610] Green-Jerpentine Acquired Territory, now at  (23, 19)
+[191437619] Error sending message: Connection reset by peer: socket write error
+[191437619] Error receiving message: Connection reset
+[191437640] Turn number: 261
+[191437640] Empty move from player 1
+[191437640] ----------------------------------------------------
+[191437644] Error sending message: Connection reset by peer: socket write error
+[191437646] Error sending message: Connection reset by peer: socket write error
+[191437646] Error receiving message: Connection reset
+[191437658] Turn number: 262
+[191437667] Error sending message: Connection reset by peer: socket write error
+[191437658] Empty move from player 1
+[191437659] ----------------------------------------------------
+[191437669] Error sending message: Connection reset by peer: socket write error
+[191437670] Error receiving message: Connection reset
+[191437682] Turn number: 263
+[191437682] Empty move from player 1
+[191437682] ----------------------------------------------------
+[191437685] Red-Jerpentine Acquired Territory, now at  (19, 2)
+[191437691] Error sending message: Connection reset by peer: socket write error
+[191437698] Error sending message: Connection reset by peer: socket write error
+[191437704] Turn number: 264
+[191437698] Error receiving message: Connection reset
+[191437718] Error sending message: Connection reset by peer: socket write error
+[191437704] Empty move from player 1
+[191437704] ----------------------------------------------------
+[191437721] Error sending message: Connection reset by peer: socket write error
+[191437723] Error receiving message: Connection reset
+[191437741] Turn number: 265
+[191437748] Error sending message: Connection reset by peer: socket write error
+[191437741] Empty move from player 1
+[191437741] ----------------------------------------------------
+[191437744] Green-Jerpentine Acquired Territory, now at  (23, 16)
+[191437744] Purple-Jerpentine Acquired Territory, now at  (25, 2)
+[191437750] Error sending message: Connection reset by peer: socket write error
+[191437750] Error receiving message: Connection reset
+[191437796] Turn number: 266
+[191437796] Empty move from player 1
+[191437796] ----------------------------------------------------
+[191437829] Red-Jerpentine Died at  (21, 1)
+[191437829] Red-Jerpentine Head on Collision at  (-1, -1)
+[191437829] Blue Died at  (21, 1)
+[191437829] Blue Head on Collision at  (-1, -1)
+[191437863] Error sending message: Connection reset by peer: socket write error
+[191437864] Error sending message: Connection reset by peer: socket write error
+[191437864] Error receiving message: Connection reset
+[191437912] Turn number: 267
+[191437912] Empty move from player 1
+[191437912] ----------------------------------------------------
+[191437938] Error sending message: Connection reset by peer: socket write error
+[191437940] Error sending message: Connection reset by peer: socket write error
+[191437940] Error receiving message: Connection reset
+[191437976] Turn number: 268
+[191437977] Empty move from player 1
+[191437988] Error sending message: Connection reset by peer: socket write error
+[191437990] Error sending message: Connection reset by peer: socket write error
+[191437991] Error receiving message: Connection reset
+[191437977] ----------------------------------------------------
+[191438027] Turn number: 269
+[191438027] Empty move from player 1
+[191438027] ----------------------------------------------------
+[191438037] Error sending message: Connection reset by peer: socket write error
+[191438038] Error sending message: Connection reset by peer: socket write error
+[191438038] Error receiving message: Connection reset
+[191438050] Turn number: 270
+[191438050] Empty move from player 1
+[191438050] ----------------------------------------------------
+[191438055] Green-Jerpentine Acquired Territory, now at  (23, 13)
+[191438066] Error sending message: Connection reset by peer: socket write error
+[191438067] Error sending message: Connection reset by peer: socket write error
+[191438067] Error receiving message: Connection reset
+[191438092] Turn number: 271
+[191438093] Empty move from player 1
+[191438093] ----------------------------------------------------
+[191438103] Error sending message: Connection reset by peer: socket write error
+[191438103] Error sending message: Connection reset by peer: socket write error
+[191438104] Error receiving message: Connection reset
+[191438111] Turn number: 272
+[191438111] Empty move from player 1
+[191438111] ----------------------------------------------------
+[191438119] Purple-Jerpentine Acquired Territory, now at  (27, 3)
+[191438124] Error sending message: Connection reset by peer: socket write error
+[191438125] Error sending message: Connection reset by peer: socket write error
+[191438125] Error receiving message: Connection reset
+[191438132] Turn number: 273
+[191438132] Empty move from player 1
+[191438132] ----------------------------------------------------
+[191438140] Error sending message: Connection reset by peer: socket write error
+[191438141] Error sending message: Connection reset by peer: socket write error
+[191438141] Error receiving message: Connection reset
+[191438159] Turn number: 274
+[191438159] Empty move from player 1
+[191438159] ----------------------------------------------------
+[191438167] Error sending message: Connection reset by peer: socket write error
+[191438168] Error sending message: Connection reset by peer: socket write error
+[191438168] Error receiving message: Connection reset
+[191438177] Turn number: 275
+[191438178] Empty move from player 1
+[191438178] ----------------------------------------------------
+[191438183] Error sending message: Connection reset by peer: socket write error
+[191438180] Green-Jerpentine Acquired Territory, now at  (25, 10)
+[191438184] Error sending message: Connection reset by peer: socket write error
+[191438184] Error receiving message: Connection reset
+[191438192] Turn number: 276
+[191438193] Empty move from player 1
+[191438193] ----------------------------------------------------
+[191438199] Error sending message: Connection reset by peer: socket write error
+[191438201] Error sending message: Connection reset by peer: socket write error
+[191438201] Error receiving message: Connection reset
+[191438211] Turn number: 277
+[191438211] Empty move from player 1
+[191438211] ----------------------------------------------------
+[191438223] Error sending message: Connection reset by peer: socket write error
+[191438225] Error sending message: Connection reset by peer: socket write error
+[191438225] Error receiving message: Connection reset
+[191438236] Turn number: 278
+[191438237] Empty move from player 1
+[191438237] ----------------------------------------------------
+[191438240] Error sending message: Connection reset by peer: socket write error
+[191438246] Turn number: 279
+[191438241] Error sending message: Connection reset by peer: socket write error
+[191438246] Empty move from player 1
+[191438246] ----------------------------------------------------
+[191438249] Purple-Jerpentine Acquired Territory, now at  (27, 2)
+[191438241] Error receiving message: Connection reset
+[191438260] Turn number: 280
+[191438260] Empty move from player 1
+[191438254] Error sending message: Connection reset by peer: socket write error
+[191438261] ----------------------------------------------------
+[191438254] Error sending message: Connection reset by peer: socket write error
+[191438254] Error receiving message: Connection reset
+[191438266] Error sending message: Connection reset by peer: socket write error
+[191438267] Error sending message: Connection reset by peer: socket write error
+[191438267] Error receiving message: Connection reset
+[191438275] Turn number: 281
+[191438275] Empty move from player 1
+[191438275] ----------------------------------------------------
+[191438280] Error sending message: Connection reset by peer: socket write error
+[191438281] Error sending message: Connection reset by peer: socket write error
+[191438281] Error receiving message: Connection reset
+[191438300] Turn number: 282
+[191438300] Empty move from player 1
+[191438301] ----------------------------------------------------
+[191438310] Error sending message: Connection reset by peer: socket write error
+[191438311] Error sending message: Connection reset by peer: socket write error
+[191438311] Error receiving message: Connection reset
+[191438325] Turn number: 283
+[191438325] Empty move from player 1
+[191438325] ----------------------------------------------------
+[191438329] Green-Jerpentine Acquired Territory, now at  (25, 8)
+[191438335] Error sending message: Connection reset by peer: socket write error
+[191438336] Error sending message: Connection reset by peer: socket write error
+[191438336] Error receiving message: Connection reset
+[191438354] Turn number: 284
+[191438354] Empty move from player 1
+[191438354] ----------------------------------------------------
+[191438360] Error sending message: Connection reset by peer: socket write error
+[191438361] Error sending message: Connection reset by peer: socket write error
+[191438361] Error receiving message: Connection reset
+[191438379] Turn number: 285
+[191438379] Empty move from player 1
+[191438379] ----------------------------------------------------
+[191438386] Error sending message: Connection reset by peer: socket write error
+[191438387] Error sending message: Connection reset by peer: socket write error
+[191438387] Error receiving message: Connection reset
+[191438407] Turn number: 286
+[191438407] Empty move from player 1
+[191438407] ----------------------------------------------------
+[191438417] Purple-Jerpentine Acquired Territory, now at  (27, 5)
+[191438423] Error sending message: Connection reset by peer: socket write error
+[191438424] Error sending message: Connection reset by peer: socket write error
+[191438433] Turn number: 287
+[191438433] Empty move from player 1
+[191438433] ----------------------------------------------------
+[191438424] Error receiving message: Connection reset
+[191438440] Error sending message: Connection reset by peer: socket write error
+[191438441] Error sending message: Connection reset by peer: socket write error
+[191438441] Error receiving message: Connection reset
+[191438451] Turn number: 288
+[191438451] Empty move from player 1
+[191438451] ----------------------------------------------------
+[191438454] Green-Jerpentine Acquired Territory, now at  (25, 7)
+[191438462] Error sending message: Connection reset by peer: socket write error
+[191438463] Error sending message: Connection reset by peer: socket write error
+[191438463] Error receiving message: Connection reset
+[191438481] Turn number: 289
+[191438481] Empty move from player 1
+[191438481] ----------------------------------------------------
+[191438490] Error sending message: Connection reset by peer: socket write error
+[191438492] Error sending message: Connection reset by peer: socket write error
+[191438492] Error receiving message: Connection reset
+[191438504] Turn number: 290
+[191438504] Empty move from player 1
+[191438504] ----------------------------------------------------
+[191438528] Error sending message: Connection reset by peer: socket write error
+[191438529] Error sending message: Connection reset by peer: socket write error
+[191438529] Error receiving message: Connection reset
+[191438533] Turn number: 291
+[191438533] Empty move from player 1
+[191438533] ----------------------------------------------------
+[191438540] Green-Jerpentine Killed AI at  (27, 8)
+[191438540] Purple-Jerpentine Died at  (28, 7)
+[191438540] Red-Jerpentine Re-spawned at  (19, 3)
+[191438540] Blue Re-spawned at  (20, 1)
+[191438546] Error sending message: Connection reset by peer: socket write error
+[191438548] Error sending message: Connection reset by peer: socket write error
+[191438548] Error receiving message: Connection reset
+[191438565] Turn number: 292
+[191438565] Empty move from player 1
+[191438565] ----------------------------------------------------
+[191438575] Error sending message: Connection reset by peer: socket write error
+[191438576] Error sending message: Connection reset by peer: socket write error
+[191438576] Error receiving message: Connection reset
+[191438590] Turn number: 293
+[191438590] Empty move from player 1
+[191438590] ----------------------------------------------------
+[191438603] Error sending message: Connection reset by peer: socket write error
+[191438604] Error sending message: Connection reset by peer: socket write error
+[191438604] Error receiving message: Connection reset
+[191438615] Turn number: 294
+[191438615] Empty move from player 1
+[191438615] ----------------------------------------------------
+[191438627] Error sending message: Connection reset by peer: socket write error
+[191438628] Error sending message: Connection reset by peer: socket write error
+[191438629] Error receiving message: Connection reset
+[191438636] Turn number: 295
+[191438636] Empty move from player 1
+[191438636] ----------------------------------------------------
+[191438638] Green-Jerpentine Acquired Territory, now at  (26, 7)
+[191438644] Error sending message: Connection reset by peer: socket write error
+[191438646] Error sending message: Connection reset by peer: socket write error
+[191438646] Error receiving message: Connection reset
+[191438666] Turn number: 296
+[191438667] Empty move from player 1
+[191438669] ----------------------------------------------------
+[191438677] Red-Jerpentine Acquired Territory, now at  (17, 4)
+[191438688] Error sending message: Connection reset by peer: socket write error
+[191438689] Error sending message: Connection reset by peer: socket write error
+[191438690] Error receiving message: Connection reset
+[191438710] Turn number: 297
+[191438711] Empty move from player 1
+[191438711] ----------------------------------------------------
+[191438726] Error sending message: Connection reset by peer: socket write error
+[191438728] Error sending message: Connection reset by peer: socket write error
+[191438728] Error receiving message: Connection reset
+[191438752] Turn number: 298
+[191438752] Empty move from player 1
+[191438753] ----------------------------------------------------
+[191438770] Error sending message: Connection reset by peer: socket write error
+[191438772] Error sending message: Connection reset by peer: socket write error
+[191438772] Error receiving message: Connection reset
+[191438795] Turn number: 299
+[191438795] Empty move from player 1
+[191438795] ----------------------------------------------------
+[191438813] Error sending message: Connection reset by peer: socket write error
+[191438814] Error sending message: Connection reset by peer: socket write error
+[191438814] Error receiving message: Connection reset
+[191438829] Turn number: 300
+[191438829] Empty move from player 1
+[191438829] ----------------------------------------------------
+[191438833] Turn limit reached: exiting game
+[191438872] Error sending message: Connection reset by peer: socket write error
+[191438876] 
+
+[191438877] Game Over!
+Exited game loop

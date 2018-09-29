@@ -1,0 +1,34 @@
+{
+  "Green-Jerpentine": {
+    "score": 120,
+    "Red-Jerpentine_Kills": 1,
+    "Green-Jerpentine_Kills": 0,
+    "Purple-Jerpentine_Kills": 0,
+    "deadTurns": 62,
+    "Blue_Kills": 1
+  },
+  "Blue": {
+    "score": 28,
+    "Red-Jerpentine_Kills": 0,
+    "Green-Jerpentine_Kills": 2,
+    "Purple-Jerpentine_Kills": 0,
+    "deadTurns": 87,
+    "Blue_Kills": 0
+  },
+  "Red-Jerpentine": {
+    "score": 59,
+    "Red-Jerpentine_Kills": 0,
+    "Green-Jerpentine_Kills": 0,
+    "Purple-Jerpentine_Kills": 0,
+    "deadTurns": 50,
+    "Blue_Kills": 2
+  },
+  "Purple-Jerpentine": {
+    "score": 152,
+    "Red-Jerpentine_Kills": 0,
+    "Green-Jerpentine_Kills": 0,
+    "Purple-Jerpentine_Kills": 0,
+    "deadTurns": 25,
+    "Blue_Kills": 0
+  }
+}
